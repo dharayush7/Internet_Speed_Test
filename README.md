@@ -1,49 +1,16 @@
-# Internet Speed Test
+# Internet Speed Test EXE
 
-GUI based programme
+EXE version
 ## Description :
 
 Run this file and click on "Start Speed Test" .
 ##  Requiredment :
 
-- import Tkinter
-- import speedtest
-
-To install this module run this command in terminal :
-
-
-1.
-For windows:
-```brash
-sudo apt-get install python3-tk
-```
-
-For linux:
-
-```brash
-pip install tk
-```
-
-
-2. 
-For windows or linux:
-
-```brash
-pip install speedtest-cli
-```
+NONE!
 ##  How to run this file :
 
-At frist clone thouse file or download a zip. Extract this zip file. And run those command.
-
-```brash
- cd /downloads/Internet_Speed_Test-master
- ```
-
- And then,
- 
- ```brash
-   python3 Internet_Speed_Test.py
- ```
+Download the zip. Then, extract the zip. In side the 'Internet_Speed_Test' folder there have a 'Internet_Speed_Test.exe' 
+file. Just double click and run the programme.
 
 
 ## Screenshots
@@ -51,7 +18,7 @@ At frist clone thouse file or download a zip. Extract this zip file. And run tho
 
 
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Internet_Speed_Test/image1.png?raw=true)
+
 
 ![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Internet_Speed_Test/image2.png?raw=true)
 
